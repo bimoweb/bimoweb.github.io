@@ -1,0 +1,38 @@
+
+
+.utama
+{
+    background-color: #4d6f91;
+}
+
+.header
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #ffffff;
+}
+
+.main
+{
+    background-color: #ffffff;
+}
+
+#navi
+{
+    background-color: red;
+}
+
+.navi
+{
+    background-color: #35ace1;
+    color: #f7efef;
+    padding: 10px;
+}
+
+.footer
+{
+    background-color: #3e3838;
+    color: #adc1b3;
+    padding: 10px;
+}
+
