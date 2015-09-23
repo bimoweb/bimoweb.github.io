@@ -1,0 +1,50 @@
+
+
+.main
+{
+    background-color: #464444;
+}
+
+.main-content
+{
+    background-color: #595959;
+    color: #b8b8bb;
+    padding: 0px;
+}
+
+.sidebar
+{
+    color: #808080;
+}
+
+.article
+{
+    margin: 50px;
+}
+
+@media (max-width:767px)
+{
+    .hideside
+    {
+        display: none;
+    }
+    .title
+    {
+        text-align: center;
+    }
+}
+
+.header
+{
+    margin-bottom: 15px;
+}
+
+.footer
+{
+}
+
+.footer
+{
+    color: #808080;
+}
+
