@@ -1,4 +1,14 @@
-
+body{
+ background-color:#1A1A1A;
+    font-family: 'Ledger', serif;
+}
+a{
+ color:#eb502b;
+}
+a:hover
+h1,h2,h3,h4,h5{
+ font-family: 'Patua One', cursive;
+}
 
 .main
 {
@@ -14,7 +24,10 @@
 
 .sidebar
 {
-    color: #808080;
+    color: #eb502b;
+}
+.sidebar h2,h3,h4,h5{
+ text-transform:capitalize;
 }
 
 .article
@@ -37,6 +50,8 @@
 .header
 {
     margin-bottom: 15px;
+    border-bottom: 10px solid #eb502b;;
+    color: #eb502b;
 }
 
 .footer
