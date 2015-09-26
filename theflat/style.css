@@ -1,13 +1,20 @@
-body{
- background-color:#1A1A1A;
+
+
+body
+{
+    background-color: #1A1A1A;
     font-family: 'Ledger', serif;
 }
-a{
- color:#eb502b;
+
+a
+{
+    color: #eb502b;
 }
+
 a:hover
-h1,h2,h3,h4,h5{
- font-family: 'Patua One', cursive;
+h1,h2,h3,h4,h5
+{
+    font-family: 'Patua One', cursive;
 }
 
 .main
@@ -26,8 +33,10 @@ h1,h2,h3,h4,h5{
 {
     color: #eb502b;
 }
-.sidebar h2,h3,h4,h5{
- text-transform:capitalize;
+
+.sidebar h2,h3,h4,h5
+{
+    text-transform: capitalize;
 }
 
 .article
@@ -50,16 +59,13 @@ h1,h2,h3,h4,h5{
 .header
 {
     margin-bottom: 15px;
-    border-bottom: 10px solid #eb502b;;
+    border-bottom: 10px solid #eb502b;
     color: #eb502b;
 }
 
 .footer
 {
-}
-
-.footer
-{
-    color: #808080;
+    background-color: #4c4c49;
+    color: #9b9b9b;
 }
 
