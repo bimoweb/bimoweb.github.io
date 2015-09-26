@@ -1,0 +1,49 @@
+
+
+.bigheader
+{
+    background-image: url('images/IMG_2606.jpg');
+    height: 100vh;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blogpost
+{
+    padding: 10px;
+    background-color: #e9edef;
+}
+
+.portfolio-title
+{
+    margin: 0;
+    font-weight: 500;
+    font-size: 25px;
+    font-variant: small-caps;
+}
+
+.portfolio-detail
+{
+    background-color: #efe9e5;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.portfolio-heading
+{
+    text-transform: none;
+    font-variant: small-caps;
+    color: #d3cbc8;
+    text-align: center;
+}
+
+.portfolio-header-desc
+{
+    color: #ede9e3;
+    font-style: italic;
+    text-align: center;
+}
+
